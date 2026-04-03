@@ -1,0 +1,3 @@
+interface:
+  display_name: "Work Story"
+  short_description: "Work a tracked story end-to-end"
