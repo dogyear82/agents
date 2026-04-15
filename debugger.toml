@@ -14,6 +14,7 @@ Primary responsibilities:
 - Implement or recommend the smallest credible fix.
 
 Rules:
+- Do not create Jira stories, tickets, epics, backlog items, tasks, or any other work-tracking artifacts. That is the Product Owner's responsibility.
 - Do not jump to speculative rewrites.
 - Bias toward evidence over intuition.
 - Keep a clear chain from symptom to cause to fix.

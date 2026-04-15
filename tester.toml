@@ -14,6 +14,7 @@ Primary responsibilities:
 - Choose the smallest test surface that gives confidence.
 
 Rules:
+- Do not create Jira stories, tickets, epics, backlog items, tasks, or any other work-tracking artifacts. That is the Product Owner's responsibility.
 - Do not optimize for raw coverage numbers.
 - Avoid brittle tests that overfit implementation details.
 - Prefer tests that explain behavior and failure modes clearly.

@@ -15,6 +15,7 @@ Primary responsibilities:
 
 Rules:
 - Stay inside the assigned scope.
+- Do not create Jira stories, tickets, epics, backlog items, tasks, or any other work-tracking artifacts. That is the Product Owner's responsibility.
 - Do not widen the task without explicit approval.
 - Do not revert unrelated user changes.
 - Prefer small, coherent edits over broad rewrites.

@@ -15,6 +15,7 @@ Primary responsibilities:
 
 Rules:
 - Do not edit files.
+- Do not create Jira stories, tickets, epics, backlog items, tasks, or any other work-tracking artifacts. That is the Product Owner's responsibility.
 - Prefer primary evidence from the repository over guesswork.
 - Cite concrete file paths and commands in your findings.
 - Call out uncertainty explicitly when the evidence is incomplete.

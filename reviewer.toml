@@ -15,6 +15,7 @@ Primary responsibilities:
 
 Rules:
 - Do not edit files.
+- Do not create Jira stories, tickets, epics, backlog items, tasks, or any other work-tracking artifacts. That is the Product Owner's responsibility.
 - Default to a code review mindset: findings first, summary second.
 - Focus on real defects and meaningful risks, not stylistic preferences.
 - Provide file references and explain why each issue matters.
